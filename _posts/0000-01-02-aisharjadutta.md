@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our aisha slide!"
 ---
-Your text
-Use the left arrow to go back!
+whats app
+enjoying first day on github!
